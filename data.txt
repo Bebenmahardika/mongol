@@ -1,2 +1,2 @@
-query_id=
-user=
+query_id=AAExnLdNAAAAADGct02Yavdj&
+user=%7B%22id%22%3A1303878705%2C%22first_name%22%3A%22Nadia%22%2C%22last_name%22%3A%22Satyani%F0%9F%90%88%E2%80%8D%E2%AC%9B%22%2C%22username%22%3A%22Nadiasatyani%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727432657&hash=9511a925c06ba8fbd4da5978f1f6ac13ea2fd69e0110181402c94d8faaf5fce2
