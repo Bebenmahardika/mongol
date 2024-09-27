@@ -1,6 +1,6 @@
 {
   "useProxy": true,
-  "proxyProtocol": "http//",
+  "proxyProtocol": "http",
   "proxyHost": "51.159.185.244",
   "proxyPort": "9004",
   "proxyAuth": {
