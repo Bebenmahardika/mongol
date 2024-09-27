@@ -2,7 +2,7 @@
   "useProxy": true,
   "proxyProtocol": "http",
   "proxyHost": "51.159.185.244",
-  "proxyPort": "9004",
+  "proxyPort": "9009",
   "proxyAuth": {
     "username": "geonode_3vnCkT1X3X",
     "password": "6d02f0cd-2f95-4ea9-a9fa-95fbef783e05"
